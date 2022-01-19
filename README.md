@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 #### Connect with Me!
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white?https://www.linkedin.com/in/oliverchuzan/)
+![https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white] (https://www.linkedin.com/in/oliverchuzan/)
 
 #### Interests/Hobbies
 🎾 Tennis
