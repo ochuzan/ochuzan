@@ -27,12 +27,16 @@ Here are some ideas to get you started:
 -->
 
 #### Connect with Me!
-![https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white] (https://www.linkedin.com/in/oliverchuzan/)
+[LinkedIn] (https://www.linkedin.com/in/oliverchuzan/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?page_id=https://www.linkedin.com/in/oliverchuzan/)
 
 #### Interests/Hobbies
 🎾 Tennis
+
 💵 Financial Literacy
+
 💻 New Technology Hardware/Gadgets
+
 ⌨️ Mechanical Keyboards
 
 #### Overview Github Stats
