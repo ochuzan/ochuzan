@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 #### Connect with Me!
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 #### Interests/Hobbies
 🎾 Tennis
