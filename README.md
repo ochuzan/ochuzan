@@ -3,12 +3,7 @@
 #### Full Stack Developer
 
 #### Technical Skills:
-Javascript, Git, GitHub, Jira, HTML, CSS, Node.js, React, React-Bootstrap, Express
-
-#### Projects
-- [Youtube Clone](https://github.com/ochuzan/react-youtube-project)
-- [Weather App](https://github.com/ochuzan/8-0-weather-app-project)
-- Budgeting App (In Progress...)
+Javascript, TypeScript, Kotlin, Git, GitHub, GitLab, Jira, HTML, CSS, Node.js, React, Express
 
 
 #### Connect with Me!
